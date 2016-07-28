@@ -14,6 +14,12 @@
                 <ab>foo</ab>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="parallel-segmentation" location="internal"/>
+            <schemaRef 
+                target="http://digitallatin.github.io/Schema/critical-editions.rng"
+                n="dll-1.0"/>
+        </encodingDesc>
     </teiHeader>
     <text>
         <body>
@@ -34,7 +40,9 @@
                             <rdg source="#Castignioni" type="conjecture-supplied">
                                 <supplied reason="omitted">nouis</supplied>
                             </rdg>
-                        </app> cotidie <app>
+                        </app> 
+                        cotidie 
+                        <app>
                             <lem>operibus</lem>
                             <rdg wit="#M"/>
                         </app> 

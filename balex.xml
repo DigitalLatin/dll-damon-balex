@@ -20,26 +20,45 @@
             <div type="edition">
                 <p n="1">
                     <seg n="1">Bello Alexandrino conflato Caesar Rhodo atque ex Syria Ciliciaque
-                        omnem classem arcessit; <placeName
+                        omnem classem arcessit; 
+                        <placeName
                             ref="http://pleiades.stoa.org/places/589748">Creta</placeName>
                         sagittarios, equites ab rege Nabataeorum Malcho euocat; tormenta undique
                         conquiri et frumentum mitti, auxilia adduci iubet.</seg>
-                    <seg n="2">Interim munitiones
+                    <seg n="2">Interim munitiones 
                         <app>
                             <lem n="munitiones"/>
                             <rdg source="#Castignioni" type="conjecture-supplied">
                                 <supplied reason="omitted">nouis</supplied>
                             </rdg>
-                        </app>
-                        cotidie
-                        <app>
+                        </app> cotidie <app>
                             <lem>operibus</lem>
                             <rdg wit="#M"/>
-                        </app> augentur atque omnes oppidi
-                        partes, quae minus esse firmae uidentur, testudinibus ac musculis aptantur;
-                        ex aedificiis autem per foramina in proxima aedificia arietes immittuntur,
-                        quantumque aut ruinis deicitur aut per uim recipitur loci, in tantum
-                        munitiones proferuntur.</seg>
+                        </app> 
+                        augentur atque omnes oppidi partes, quae minus esse firmae uidentur,
+                        testudinibus ac musculis 
+                        <app>
+                            <lem wit="#ω" xml:id="aptantur-1.2">aptantur</lem>
+                            <note target="#aptantur-1.2">u. <ref>BC 3.112.7-9</ref></note>
+                            <rdg source="#Nipperdey" type="conjecture-corrected">
+                                <corr>temptantur</corr>
+                            </rdg>
+                            <note target="#aptantur-1.2">alii alia (u. Gaertner-Hausburg 48 n.87)</note>
+                        </app>; 
+                        ex aedificiis autem per foramina in
+                        proxima aedificia arietes immittuntur, quantumque aut ruinis deicitur aut
+                        <app>
+                            <lem>per</lem>
+                            <rdg wit="#S #T #V"/>
+                            <!-- NB: type variation-absent, but encoding pattern is unique -->
+                        </app>
+                        uim recipitur loci, 
+                        <app>
+                            <lem>in</lem>
+                            <rdg source="#Schneider" type="conjecture-removed">
+                                <surplus>in</surplus>
+                            </rdg>
+                        </app> tantum munitiones proferuntur.</seg>
                     <seg n="3">Nam <supplied reason="lost">ab</supplied> incendio fere tuta est
                         Alexandria, quod sine contignatione ac materia sunt aedificia et structuris
                         ac fornicibus continentur tectaque sunt rudere aut pauimentis.</seg>

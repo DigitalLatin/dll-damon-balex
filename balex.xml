@@ -95,7 +95,23 @@
                     <seg n="4">Caesar maxime studebat ut quam angustissimam partem oppidi palus a
                         meridie interiecta efficiebat, hanc operibus uineisque agendis ab reliqua
                         parte urbis excluderet,</seg>
-                    <seg n="5">illud spectans primum ut, cum in duas partes esset urbs diuisa, acies
+                    <seg n="5">illud 
+                        <app>
+                            <!-- spectans Vascosan (cf. BC 3.85.2) : expectans ω -->
+                            <lem source="#Vascosan" type="conjecture-corrected">
+                                <corr>spectans</corr>
+                            </lem>
+                            <note>cf. BC 3.85.2</note> <!-- order is significant -->
+                            <rdg wit="#ω">expectans</rdg>
+                        </app>
+                        primum ut, cum in duas partes esset 
+                        <app>
+                            <!-- urbs U : ubrs M : urbis STV -->
+                            <lem wit="#U">urbs</lem>
+                            <rdg wit="#M">ubrs</rdg>
+                            <rdg wit="#S #T #V">urbis</rdg>
+                        </app>
+                        diuisa, acies
                         uno consilio atque imperio administraretur, deinde ut laborantibus succurri
                         atque ex altera oppidi parte auxilium ferri posset, in primis uero ut aqua
                         pabuloque abundaret, quarum alterius rei copiam exiguam, alterius nullam

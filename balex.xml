@@ -236,7 +236,26 @@
                         suas defendebant. </seg>
                     <seg n="2">Atque haec principes in consiliis contionibusque agitabant: populum
                         Romanum paulatim in consuetudinem eius regni occupandi uenire. </seg>
-                    <seg n="3">Paucis annis ante A. Gabinium cum exercitu fuisse in Aegypto;
+                    <seg n="3">Paucis annis 
+                        <app>
+                            <!-- ante A. Gabinium Schneider : antea g- uel ante ag- MUSTcVac : ante g- TacVc -->
+                            <!-- editor's clarification needed to fully address encoding issues -->
+                            <lem source="#Schneider">ante <persName>A. Gabinium</persName></lem>
+                            <rdg wit="#M #U #S" xml:id="rdg-antea-gabinium">antea gabinium</rdg>
+                            <rdg wit="#T">
+                                <subst>
+                                    <del>ante gabinium</del>
+                                    <add copyOf="#rdg-antea-gabinium">antea gabinium</add>
+                                </subst>
+                            </rdg>
+                            <rdg wit="#V">
+                                <subst>
+                                    <del copyOf="#rdg-antea-gabinium">antea gabinium</del>
+                                    <add>ante gabinium</add>
+                                </subst>
+                            </rdg>
+                        </app>
+                        cum exercitu fuisse in Aegypto;
                         Pompeium se ex fuga eodem recepisse; Caesarem uenisse cum copiis, neque
                         morte Pompei quicquam profectum quo minus apud se Caesar commoraretur.
                         </seg>

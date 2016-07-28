@@ -8,12 +8,21 @@
                     1954)</title>
             </titleStmt>
             <publicationStmt>
-                <ab>bar</ab>
+                <ab>This is a working document of the <ref target="http://digitallatin.org/">Digital
+                        Latin Library</ref> and is not yet suitable for formal publication.</ab>
             </publicationStmt>
             <sourceDesc>
-                <ab>foo</ab>
+                <ab>Base text for this was the Budé [Jean Andrieu, 1954], with textual modifications
+                    and apparatus information prepared by Cynthia Damon. Partial encoding of same by
+                    Jeffrey Witt, Samuel Huskey, Tom Elliott, and Hugh Cayless.</ab>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="parallel-segmentation" location="internal"/>
+            <!-- <schemaRef 
+                target="http://digitallatin.github.io/Schema/critical-editions.rng"
+                n="dll-1.0"/> -->
+        </encodingDesc>
     </teiHeader>
     <text>
         <body>
@@ -34,7 +43,9 @@
                             <rdg source="#Castignioni" type="conjecture-supplied">
                                 <supplied reason="omitted">nouis</supplied>
                             </rdg>
-                        </app> cotidie <app>
+                        </app> 
+                        cotidie 
+                        <app>
                             <lem>operibus</lem>
                             <rdg wit="#M"/>
                         </app> 

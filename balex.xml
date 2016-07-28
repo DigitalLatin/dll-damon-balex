@@ -101,6 +101,7 @@
                             <lem source="#Vascosan" type="conjecture-corrected">
                                 <corr>spectans</corr>
                             </lem>
+                            <note><ptr target="https://books.google.com/books?id=aYA2kV121-AC&amp;pg=PT236#v=onepage&amp;q&amp;f=false"/></note>
                             <note>cf. BC 3.85.2</note> <!-- order is significant -->
                             <rdg wit="#ω">expectans</rdg>
                         </app>

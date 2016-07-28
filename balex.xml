@@ -19,11 +19,11 @@
         <body>
             <div type="edition">
                 <p n="1">
-                    <seg n="1">Bello Alexandrino conflato Caesar Rhodo atque ex Syria Ciliciaque
+                    <seg n="1">Bello Alexandrino conflato <persName ref="#Caesar">Caesar</persName> <placeName ref="http://pleiades.stoa.org/places/590031 ">Rhodo</placeName> atque ex <placeName ref="http://pleiades.stoa.org/places/1306">Syria</placeName> <placeName ref="http://pleiades.stoa.org/places/628957">Ciliciaque</placeName>
                         omnem classem arcessit; 
                         <placeName
                             ref="http://pleiades.stoa.org/places/589748">Creta</placeName>
-                        sagittarios, equites ab rege Nabataeorum Malcho euocat; tormenta undique
+                        sagittarios, equites ab <name>rege <orgName ref="http://pleiades.stoa.org/places/29677">Nabataeorum</orgName> <persName>Malcho</persName></name> euocat; tormenta undique
                         conquiri et frumentum mitti, auxilia adduci iubet.</seg>
                     <seg n="2">Interim munitiones 
                         <!-- following two apps address this: 
@@ -78,7 +78,7 @@
                             <note>cf. 61.3</note>
                         </app>
                         incendio fere tuta est
-                        Alexandria, quod sine contignatione ac materia sunt aedificia 
+                        <placeName ref="http://pleiades.stoa.org/places/727070">Alexandria</placeName>, quod sine contignatione ac materia sunt aedificia 
                         <app>
                             <!-- et om. M -->
                             <lem>et</lem>
@@ -92,7 +92,7 @@
                             <rdg wit="#S">a</rdg>
                         </app>
                         fornicibus continentur tectaque sunt rudere aut pauimentis.</seg>
-                    <seg n="4">Caesar maxime studebat ut quam angustissimam partem oppidi palus a
+                    <seg n="4"><persName ref="#Caesar">Caesar</persName> maxime studebat ut quam angustissimam partem oppidi palus a
                         meridie interiecta efficiebat, hanc operibus uineisque agendis ab reliqua
                         parte urbis excluderet,</seg>
                     <seg n="5">illud 

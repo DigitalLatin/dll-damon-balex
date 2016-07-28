@@ -111,10 +111,23 @@
                             <rdg wit="#M">ubrs</rdg>
                             <rdg wit="#S #T #V">urbis</rdg>
                         </app>
-                        diuisa, acies
+                        diuisa, 
+                        <app>
+                            <!-- <sua> acies Fleischer -->
+                            <lem>acies</lem>
+                            <rdg source="#Fleischer">
+                                <supplied reason="omitted">sua</supplied> acies
+                            </rdg>
+                        </app>
                         uno consilio atque imperio administraretur, deinde ut laborantibus succurri
-                        atque ex altera oppidi parte auxilium ferri posset, in primis uero ut aqua
-                        pabuloque abundaret, quarum alterius rei copiam exiguam, alterius nullam
+                        atque ex altera oppidi pasrte auxilium ferri posset, in primis uero ut aqua
+                        pabuloque abundaret, quarum alterius 
+                        <app>
+                            <!-- rei … alterius om. S (uerba 4) -->
+                            <lem>rei copiam exiguam, alterius</lem>
+                            <rdg wit="#S" cause="homoteleuton" type="variation-absent"/>
+                        </app> 
+                        nullam
                         omnino facultatem habebat; quod utrumque large palus praebere poterat.</seg>
                 </p>
                 <p n="2"><seg n="1">Neque uero Alexandrinis in gerendis negotiis cunctatio ulla aut

@@ -206,24 +206,38 @@
                                 <rdg source="#Damon" type="conjecture-supplied">
                                     <corr>iunctis</corr>
                                 </rdg>
-                                <note>cf. Vitr. 10.2.14</note>
+                                <!-- <note>cf. Vitr. 10.2.14</note> -->
                                 <rdg source="#Damon" type="conjecture-supplied">
                                     <corr>adiunctis</corr>
                                 </rdg>
-                                <note>cf. 27.7 et Gel. 20.1.28</note>
+                                <!-- <note>cf. 27.7 et Gel. 20.1.28</note> -->
                             </rdgGrp>
                         </app> derectis plateis in
                         quamcumque erat uisum partem mouebant.</seg></p>
-              <p n="3"><seg n="1">Urbs fertilissima et copiosissima omnium rerum apparatus suggerebat. Ipsi homines
-        ingeniosi atque acutissimi quae a nobis fieri uiderant ea sollertia efficiebant ut nostri
-        illorum opera imitati uiderentur, et sua sponte multa reperiebant unoque tempore et nostras
-        munitiones infestabant et suas defendebant. </seg><seg n="2">Atque haec principes in consiliis
-        contionibusque agitabant: populum Romanum paulatim in consuetudinem eius regni occupandi
-        uenire. </seg><seg n="3">Paucis annis ante A. Gabinium cum exercitu fuisse in Aegypto; Pompeium se ex
-        fuga eodem recepisse; Caesarem uenisse cum copiis, neque morte Pompei quicquam profectum quo
-        minus apud se Caesar commoraretur. </seg><seg n="4">Quem si non expulissent, futuram ex regno prouinciam;
-        idque agendum mature: namque eum interclusum tempestatibus propter anni tempus recipere
-        transmarina auxilia non posse.</seg></p>
+                <p n="3">
+                    <seg n="1">Urbs fertilissima et copiosissima omnium rerum apparatus suggerebat.
+                        Ipsi homines 
+                        <app>
+                            <lem>ingeniosi</lem>
+                            <rdg source="#Wölfflin">ingeniosissimi</rdg>
+                            <wit>Wölfflin teste Klotz</wit>
+                            <!-- if it's followed by a wit, don't print the thing in 
+                                @source -->
+                        </app> 
+                        atque acutissimi quae a nobis fieri uiderant ea
+                        sollertia efficiebant ut nostri illorum opera imitati uiderentur, et sua
+                        sponte multa reperiebant unoque tempore et nostras munitiones infestabant et
+                        suas defendebant. </seg>
+                    <seg n="2">Atque haec principes in consiliis contionibusque agitabant: populum
+                        Romanum paulatim in consuetudinem eius regni occupandi uenire. </seg>
+                    <seg n="3">Paucis annis ante A. Gabinium cum exercitu fuisse in Aegypto;
+                        Pompeium se ex fuga eodem recepisse; Caesarem uenisse cum copiis, neque
+                        morte Pompei quicquam profectum quo minus apud se Caesar commoraretur.
+                        </seg>
+                    <seg n="4">Quem si non expulissent, futuram ex regno prouinciam; idque agendum
+                        mature: namque eum interclusum tempestatibus propter anni tempus recipere
+                        transmarina auxilia non posse.</seg>
+                </p>
       <p n="4"><seg n="1">Interim dissensione orta inter Achillan, qui ueterano exercitui praeerat, et
         Arsinoen, regis Ptolomaei minorem filiam, ut supra demonstratum est, cum uterque utrique
         insidiaretur et summam imperi ipse obtinere uellet, praeoccupat Arsinoe per Ganymeden

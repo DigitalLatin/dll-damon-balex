@@ -20,10 +20,22 @@
             <div type="edition">
                 <p n="1">
                     <seg n="1">Bello Alexandrino conflato Caesar Rhodo atque ex Syria Ciliciaque
-                        omnem classem arcessit; Creta sagittarios, equites ab rege Nabataeorum
-                        Malcho euocat; tormenta undique conquiri et frumentum mitti, auxilia adduci
-                        iubet.</seg>
-                    <seg n="2">Interim munitiones cotidie operibus augentur atque omnes oppidi
+                        omnem classem arcessit; <placeName
+                            ref="http://pleiades.stoa.org/places/589748">Creta</placeName>
+                        sagittarios, equites ab rege Nabataeorum Malcho euocat; tormenta undique
+                        conquiri et frumentum mitti, auxilia adduci iubet.</seg>
+                    <seg n="2">Interim munitiones
+                        <app>
+                            <lem n="munitiones"/>
+                            <rdg source="#Castignioni" type="conjecture-supplied">
+                                <supplied reason="omitted">nouis</supplied>
+                            </rdg>
+                        </app>
+                        cotidie
+                        <app>
+                            <lem>operibus</lem>
+                            <rdg wit="#M"/>
+                        </app> augentur atque omnes oppidi
                         partes, quae minus esse firmae uidentur, testudinibus ac musculis aptantur;
                         ex aedificiis autem per foramina in proxima aedificia arietes immittuntur,
                         quantumque aut ruinis deicitur aut per uim recipitur loci, in tantum

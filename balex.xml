@@ -61,9 +61,12 @@
                         <app>
                             <!-- in2 secl. Schneider coll. Hirt. 8.27.4 -->
                             <lem>in</lem>
-                            <rdg source="#Schneider" type="conjecture-removed">
+                            <rdg 
+                                source="#Schneider" 
+                                type="conjecture-removed">
                                 <surplus>in</surplus>
                             </rdg>
+                            <note>u. <ptr target="https://archive.org/stream/bellumalexandri00hirtgoog#page/n12/mode/2up"/></note>
                         </app> 
                         tantum munitiones proferuntur.</seg>
                     <seg n="3">Nam 

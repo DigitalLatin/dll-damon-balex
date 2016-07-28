@@ -225,7 +225,13 @@
                                 @source -->
                         </app> 
                         atque acutissimi quae a nobis fieri uiderant ea
-                        sollertia efficiebant ut nostri illorum opera imitati uiderentur, et sua
+                        sollertia 
+                        <app><lem wit="#ω">efficiebant</lem>
+                            <note>cf. 19.5</note>
+                            <rdg source="Kübler">effingebant</rdg>
+                            <note>cf. Cic. ND 3.23</note>
+                        </app>
+                        ut nostri illorum opera imitati uiderentur, et sua
                         sponte multa reperiebant unoque tempore et nostras munitiones infestabant et
                         suas defendebant. </seg>
                     <seg n="2">Atque haec principes in consiliis contionibusque agitabant: populum

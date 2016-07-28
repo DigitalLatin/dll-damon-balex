@@ -19,9 +19,9 @@
         </fileDesc>
         <encodingDesc>
             <variantEncoding method="parallel-segmentation" location="internal"/>
-            <schemaRef 
+            <!-- <schemaRef 
                 target="http://digitallatin.github.io/Schema/critical-editions.rng"
-                n="dll-1.0"/>
+                n="dll-1.0"/> -->
         </encodingDesc>
     </teiHeader>
     <text>

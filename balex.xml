@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://digitallatin.github.io/Schema/critical-editions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+ o<?xml-model href="http://digitallatin.github.io/Schema/critical-editions.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -154,33 +154,28 @@
                             <!-- Capitalizing the lemmata since the lemma is the beginning of a sentence. -->
                             <rdg wit="#M">Huc</rdg>
                             <rdg wit="#S">Ha</rdg>
-                        </app> multitudine disposita munitiones 
-                        <app>
+                        </app> multitudine disposita munitiones <app>
                             <!-- Witness M needs a handNote saying that Mmr is a "more recent hand" (i.e., not the original copyist). -->
                             <lem wit="#Mmr" type="correction-substitution">semotarum</lem>
                             <rdg wit="#ω">semotorum</rdg>
-                        </app> partium tuebantur; ueteranas cohortes uacuas 
-                        <app>
+                        </app> partium tuebantur; ueteranas cohortes uacuas <app>
                             <lem>in celeberrimis urbis locis</lem>
                             <rdg wit="#M" type="#variation-absent"/>
-                        </app> habebant, ut quacumque regione pugnaretur integris uiribus ad auxilium
-                        ferendum opponi possent.</seg>
+                        </app> habebant, ut quacumque regione pugnaretur integris uiribus ad
+                        auxilium ferendum opponi possent.</seg>
                     <seg n="4">Omnibus uiis atque angiportis triplicem uallum obduxerant — erat
                         autem quadrato extructus saxo neque minus XL pedes altitudinis habebat —
                         quaeque partes urbis inferiores erant, has altissimis turribus denorum
                         tabulatorum munierant.</seg>
-                    <seg n="5">Praeterea alias ambulatorias totidem tabulatorum 
-                        <app>
+                    <seg n="5">Praeterea alias ambulatorias totidem tabulatorum <app>
                             <lem wit="#ω">confixerant</lem>
                             <note>cf. BG 3.13.4</note>
                             <rdg source="#Davies" type="conjecture-corrected">confinxerant</rdg>
                             <note>coll. Plin. NH 10.93</note>
-                            <rdg wit="#ς" >confecerant</rdg>
+                            <rdg wit="#ς">confecerant</rdg>
                             <!-- Check all of the cf to internal passages and refer them to the text -->
                             <note>teste Oudendorp, cf. 13.4</note>
-                        </app>
-                        subiectisque eas rotis funibus iumentisque 
-                        <app>
+                        </app> subiectisque eas rotis funibus iumentisque <app>
                             <lem>
                                 <sic>obiectis</sic>
                             </lem>
@@ -212,8 +207,7 @@
                                 </rdg>
                                 <note>cf. 27.7 et Gel. 20.1.28</note>
                             </rdgGrp>
-                        </app> derectis plateis in
-                        quamcumque erat uisum partem mouebant.</seg></p>
+                        </app> derectis plateis in quamcumque erat uisum partem mouebant.</seg></p>
             </div>
         </body>
     </text>
